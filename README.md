@@ -209,4 +209,3 @@ img { max-width: 100%; height: auto; }
  Extra File: news.json (optional)
 **************************************/
 // Initially empty or: []
-# AF-Live
